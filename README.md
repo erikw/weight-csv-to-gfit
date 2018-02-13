@@ -1,5 +1,7 @@
-# weight-csv-to-gfit
+# weight-csv-to-gfit (kg forg)
 Load weights.csv and import to a Google Fit account
+
+Forked to use kg input in the csv instead.
 
 ## Download and installation
 ```

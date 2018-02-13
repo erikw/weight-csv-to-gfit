@@ -6,7 +6,7 @@ from dateutil import zoneinfo
 
 DAWN_TIME = datetime.datetime(1970, 1, 1, tzinfo=dateutil.tz.tzutc())
 TIME_ZONE = zoneinfo.gettz("Asia/Hong_Kong")
-POUNDS_PER_KILOGRAM = 2.20462
+POUNDS_PER_KILOGRAM = 1.0
 
 def nano(val):
   """Converts a number to nano (str)."""

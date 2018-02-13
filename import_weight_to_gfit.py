@@ -1,3 +1,4 @@
+#!/usr/bin/env python2
 # -------------------------------------------------------------------------------
 # Purpose: Load weights.csv and import to a Google Fit account
 # Some codes refer to:
